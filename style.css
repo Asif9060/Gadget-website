@@ -83,7 +83,7 @@ h5 {
     justify-content: end;
 }
 
-@media (max-width: 960px) {
+@media (max-width: 768px) {
     .phone1,.laptop1 {
         margin-right: 0px;
     
@@ -109,7 +109,7 @@ h5 {
 
     .pale {
         position: relative;
-        right: 26px;
+        right: 28px;
         width: 441px;
     }
 }
