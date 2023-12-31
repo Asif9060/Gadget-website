@@ -83,7 +83,7 @@ h5 {
     justify-content: end;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 480px) {
     .phone1,.laptop1 {
         margin-right: 0px;
     
