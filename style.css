@@ -94,8 +94,7 @@ h5 {
     }
 
     .borderr {
-        position: relative;
-        left: 142px;
+        visibility: hidden;
     }
 
     .bag {
@@ -104,7 +103,8 @@ h5 {
     }
 
     .pale {
-        width: 250px;
+        visibility: hidden;
+        width: 10px;
     }
 }
 
