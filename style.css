@@ -32,6 +32,7 @@ p {
 
 .phone1,.laptop1 {
     margin-right: 100px;
+
 }
 
 .phone2,.laptop2 {
@@ -76,5 +77,40 @@ h5 {
     width: 130px;
     position: relative;
     left: 472px;
+}
+
+.collapse {
+    justify-content: end;
+}
+
+@media (max-width: 960px) {
+    .phone1,.laptop1 {
+        margin-right: 0px;
+    
+    }
+
+    .phone2,.laptop2 {
+        margin-right: 0px;
+    }
+
+    .desc {
+        display: none;
+    }
+
+    .borderr {
+        position: relative;
+        left: 142px;
+    }
+
+    .bag {
+        position: relative;
+        top: 229px;
+    }
+
+    .pale {
+        position: relative;
+        right: 26px;
+        width: 441px;
+    }
 }
 
